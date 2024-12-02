@@ -53,22 +53,22 @@ Consider time complexity.
 
 Complete the following: 
 
-package com.personetics.test; 
-
-//Node can be class or interface 
-public interface/class Node { 
-
-//TODO: implement class 
-
-} 
-
- 
-
-package com.personetics.test; 
- 
-public class ChainValidator { 
- 
-    boolean validate(List<Node> nodes) { 
-        //TODO: implement method 
+    package com.personetics.test; 
+    
+    //Node can be class or interface 
+    public interface/class Node { 
+    
+    //TODO: implement class 
+    
     } 
-} 
+    
+     
+    
+    package com.personetics.test; 
+     
+    public class ChainValidator { 
+     
+        boolean validate(List<Node> nodes) { 
+            //TODO: implement method 
+        } 
+    } 
